@@ -3,7 +3,7 @@
 The lyrics from Mac Millers releases were scraped from genius.com at the end of 2020. The following releases are covered:  
 
 | Album                                        | Year |
-| -------------------------------------------- | ---- |
+|:-------------------------------------------- |:----:|
 | But My Mackin Ain’t Easy                     | 2007 |
 | But My Mackin’ Ain’t Easy (Original Version) | 2007 |
 | The High Life                                | 2009 |
