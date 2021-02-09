@@ -14,7 +14,6 @@ The lyrics from Mac Millers releases were scraped from genius.com at the end of 
 | On and On and Beyond                         | 2011 |
 | Best Day Ever                                | 2011 |
 | Macadelic                                    | 2012 |
-| Live from Space                              | 2013 |
 | Watching Movies with the Sound Off           | 2013 |
 | Live from London                             | 2013 |
 | Live from Space                              | 2013 |
